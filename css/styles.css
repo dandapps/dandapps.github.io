@@ -18,6 +18,10 @@ header {
     padding: 10px;
 }
 
+#redirectLink {
+    display: none;
+}
+
 footer {
     position: fixed;
     bottom: 20px;
